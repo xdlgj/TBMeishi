@@ -1,0 +1,381 @@
+1537105744296	geckodriver	INFO	geckodriver 0.19.1
+1537105744305	geckodriver	INFO	Listening on 127.0.0.1:53801
+1537105744445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DGagYdubKEcI"
+  File "/usr/bin/lsb_release", line 64
+    print("No LSB modules are available.", file=sys.stderr)
+                                               ^
+SyntaxError: invalid syntax
+1537105748867	Marionette	INFO	Listening on port 43103
+1537105748966	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4718, Gecko_IOThread] WARNING: pipe error (58): 连接被对方重设: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1537106034197	geckodriver	INFO	geckodriver 0.19.1
+1537106034201	geckodriver	INFO	Listening on 127.0.0.1:44557
+1537106035317	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZRRXbCHRuDEx"
+  File "/usr/bin/lsb_release", line 64
+    print("No LSB modules are available.", file=sys.stderr)
+                                               ^
+SyntaxError: invalid syntax
+1537106038458	Marionette	INFO	Listening on port 46451
+1537106038545	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5694, Gecko_IOThread] WARNING: pipe error (84): 连接被对方重设: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1537106054391	geckodriver	INFO	geckodriver 0.19.1
+1537106054396	geckodriver	INFO	Listening on 127.0.0.1:57185
+1537106055522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZAAoayjLGcNz"
+  File "/usr/bin/lsb_release", line 64
+    print("No LSB modules are available.", file=sys.stderr)
+                                               ^
+SyntaxError: invalid syntax
+1537106058703	Marionette	INFO	Listening on port 37159
+1537106058748	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5990): dconf-WARNING **: 21:54:36.422: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+JavaScript error: https://textlink.simba.taobao.com/?name=tbhs&cna&nn=&count=13&pid=430266_1006&_ksTS=1537106076614_71&callback=jsonp72, line 2: ReferenceError: jsonp72 is not defined
+[Parent 5915, Gecko_IOThread] WARNING: pipe error (130): 连接被对方重设: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 5915, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537107667199	geckodriver	INFO	geckodriver 0.19.1
+1537107667206	geckodriver	INFO	Listening on 127.0.0.1:43045
+1537107668341	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nLaeNLOpKq3u"
+  File "/usr/bin/lsb_release", line 64
+    print("No LSB modules are available.", file=sys.stderr)
+                                               ^
+SyntaxError: invalid syntax
+1537107671673	Marionette	INFO	Listening on port 39895
+1537107671759	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6575, Gecko_IOThread] WARNING: pipe error (72): 连接被对方重设: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1537107702209	geckodriver	INFO	geckodriver 0.19.1
+1537107702215	geckodriver	INFO	Listening on 127.0.0.1:34933
+1537107703337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6x3686LQKyOF"
+  File "/usr/bin/lsb_release", line 64
+    print("No LSB modules are available.", file=sys.stderr)
+                                               ^
+SyntaxError: invalid syntax
+1537107706653	Marionette	INFO	Listening on port 46583
+1537107706766	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537107729237	geckodriver	INFO	geckodriver 0.19.1
+1537107729241	geckodriver	INFO	Listening on 127.0.0.1:33211
+1537107730386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4PzxMY1J93as"
+  File "/usr/bin/lsb_release", line 64
+    print("No LSB modules are available.", file=sys.stderr)
+                                               ^
+SyntaxError: invalid syntax
+1537107733534	Marionette	INFO	Listening on port 40193
+1537107733602	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7035): dconf-WARNING **: 22:22:37.927: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+JavaScript error: https://tui.taobao.com/recommend?_ksTS=1537107768864_156&callback=jsonp157&appid=2807, line 2: ReferenceError: jsonp157 is not defined
+[Parent 6960, Gecko_IOThread] WARNING: pipe error (50): 连接被对方重设: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 6960, Gecko_IOThread] WARNING: pipe error (72): 连接被对方重设: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537107892172	geckodriver	INFO	geckodriver 0.19.1
+1537107892176	geckodriver	INFO	Listening on 127.0.0.1:58879
+1537107893303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BpEMUY1TXZEn"
+  File "/usr/bin/lsb_release", line 64
+    print("No LSB modules are available.", file=sys.stderr)
+                                               ^
+SyntaxError: invalid syntax
+1537107896551	Marionette	INFO	Listening on port 42929
+1537107896633	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7406): dconf-WARNING **: 22:24:59.508: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+1537107976974	geckodriver	INFO	geckodriver 0.19.1
+1537107976978	geckodriver	INFO	Listening on 127.0.0.1:35547
+1537107977098	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.p61k5B6UyFwm"
+  File "/usr/bin/lsb_release", line 64
+    print("No LSB modules are available.", file=sys.stderr)
+                                               ^
+SyntaxError: invalid syntax
+1537107980336	Marionette	INFO	Listening on port 46697
+1537107980419	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7713): dconf-WARNING **: 22:26:53.470: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+JavaScript error: https://textlink.simba.taobao.com/?name=tbhs&cna&nn=&count=13&pid=430266_1006&_ksTS=1537108013869_71&callback=jsonp72, line 2: ReferenceError: jsonp72 is not defined
+JavaScript error: https://ald.taobao.com/recommend2.htm?appId=20140506002%2C20140506001%2C201602246%2C07085%2C03014%2C201608180&_ksTS=1537108013922_91&callback=jsonp92, line 2: ReferenceError: jsonp92 is not defined
+JavaScript error: https://drc.alicdn.com/7/1947787_0____?callback=jsonp1947787_0____, line 1: ReferenceError: jsonp1947787_0____ is not defined
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1537108431549	geckodriver	INFO	geckodriver 0.19.1
+1537108431554	geckodriver	INFO	Listening on 127.0.0.1:32805
+1537108432661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.atosT9owpf2e"
+  File "/usr/bin/lsb_release", line 64
+    print("No LSB modules are available.", file=sys.stderr)
+                                               ^
+SyntaxError: invalid syntax
+1537108435693	Marionette	INFO	Listening on port 45959
+1537108435773	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8083): dconf-WARNING **: 22:34:18.922: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+JavaScript error: https://textlink.simba.taobao.com/?name=tbhs&cna&nn=&count=13&pid=430266_1006&_ksTS=1537108459201_71&callback=jsonp72, line 2: ReferenceError: jsonp72 is not defined
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+[Parent 8005, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537109911344	geckodriver	INFO	geckodriver 0.19.1
+1537109911363	geckodriver	INFO	Listening on 127.0.0.1:35215
+1537109911611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PpLkcAikeOD3"
+  File "/usr/bin/lsb_release", line 64
+    print("No LSB modules are available.", file=sys.stderr)
+                                               ^
+SyntaxError: invalid syntax
+1537109920223	Marionette	INFO	Listening on port 42261
+1537109920308	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9310): dconf-WARNING **: 22:59:03.123: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+[Parent 9189, Gecko_IOThread] WARNING: pipe error (56): 连接被对方重设: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537110456551	geckodriver	INFO	geckodriver 0.19.1
+1537110456556	geckodriver	INFO	Listening on 127.0.0.1:37305
+1537110457719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Jv8RlNJlAkKd"
+  File "/usr/bin/lsb_release", line 64
+    print("No LSB modules are available.", file=sys.stderr)
+                                               ^
+SyntaxError: invalid syntax
+1537110465269	Marionette	INFO	Listening on port 32999
+1537110465648	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10015): dconf-WARNING **: 23:08:02.527: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00B0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00B0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00B0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00B0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00B0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00B0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9893, Gecko_IOThread] WARNING: pipe error (130): 连接被对方重设: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1537110508449	geckodriver	INFO	geckodriver 0.19.1
+1537110508453	geckodriver	INFO	Listening on 127.0.0.1:45489
+1537110509576	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Uz7G1uztW1wi"
+  File "/usr/bin/lsb_release", line 64
+    print("No LSB modules are available.", file=sys.stderr)
+                                               ^
+SyntaxError: invalid syntax
+1537110512771	Marionette	INFO	Listening on port 42595
+1537110512791	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10256): dconf-WARNING **: 23:08:54.998: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+JavaScript error: https://textlink.simba.taobao.com/?name=tbhs&cna&nn=&count=13&pid=430266_1006&_ksTS=1537110535181_71&callback=jsonp72, line 2: ReferenceError: jsonp72 is not defined
+JavaScript error: https://ald.taobao.com/recommend2.htm?appId=20140506002%2C20140506001%2C201602246%2C07085%2C03014%2C201608180&_ksTS=1537110535228_91&callback=jsonp92, line 2: ReferenceError: jsonp92 is not defined
+JavaScript error: https://drc.alicdn.com/7/1947787_0____?callback=jsonp1947787_0____, line 1: ReferenceError: jsonp1947787_0____ is not defined
+[Parent 10181, Gecko_IOThread] WARNING: pipe error (132): 连接被对方重设: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1537110580866	geckodriver	INFO	geckodriver 0.19.1
+1537110580870	geckodriver	INFO	Listening on 127.0.0.1:39669
+1537110581987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.d2HNyMTu2b4k"
+  File "/usr/bin/lsb_release", line 64
+    print("No LSB modules are available.", file=sys.stderr)
+                                               ^
+SyntaxError: invalid syntax
+1537110585032	Marionette	INFO	Listening on port 42285
+1537110585100	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10533): dconf-WARNING **: 23:10:08.418: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+JavaScript error: https://textlink.simba.taobao.com/?name=tbhs&cna&nn=&count=13&pid=430266_1006&_ksTS=1537110608586_71&callback=jsonp72, line 2: ReferenceError: jsonp72 is not defined
+JavaScript error: https://ald.taobao.com/recommend2.htm?appId=20140506002%2C20140506001%2C201608180%2C07085%2C03014%2C201602246&_ksTS=1537110618683_142&callback=jsonp143, line 2: ReferenceError: jsonp143 is not defined
+JavaScript error: https://ald.taobao.com/recommend2.htm?appId=20140506002%2C20140506001%2C201602246%2C07085%2C03014%2C201608180&_ksTS=1537110608631_91&callback=jsonp92, line 2: ReferenceError: jsonp92 is not defined
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+[Parent 10457, Gecko_IOThread] WARNING: pipe error (75): 连接被对方重设: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537111052228	geckodriver	INFO	geckodriver 0.19.1
+1537111052234	geckodriver	INFO	Listening on 127.0.0.1:42337
+1537111053345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3ecg18ZveF88"
+  File "/usr/bin/lsb_release", line 64
+    print("No LSB modules are available.", file=sys.stderr)
+                                               ^
+SyntaxError: invalid syntax
+1537111056290	Marionette	INFO	Listening on port 35939
+1537111056358	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11222): dconf-WARNING **: 23:17:53.484: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+[Parent 11146, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537111181140	geckodriver	INFO	geckodriver 0.19.1
+1537111181145	geckodriver	INFO	Listening on 127.0.0.1:42007
+1537111182271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YhPK9Oe8ot96"
+  File "/usr/bin/lsb_release", line 64
+    print("No LSB modules are available.", file=sys.stderr)
+                                               ^
+SyntaxError: invalid syntax
+1537111185276	Marionette	INFO	Listening on port 36057
+1537111185305	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11483): dconf-WARNING **: 23:20:08.518: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+JavaScript error: https://ald.taobao.com/recommend2.htm?appId=20140506002%2C20140506001%2C201602246%2C07085%2C03014%2C201608180&_ksTS=1537111209028_91&callback=jsonp92, line 2: ReferenceError: jsonp92 is not defined
+JavaScript error: https://textlink.simba.taobao.com/?name=tbhs&cna&nn=&count=13&pid=430266_1006&_ksTS=1537111208982_71&callback=jsonp72, line 2: ReferenceError: jsonp72 is not defined
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+[Parent 11404, Gecko_IOThread] WARNING: pipe error (75): 连接被对方重设: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537111273422	geckodriver	INFO	geckodriver 0.19.1
+1537111273427	geckodriver	INFO	Listening on 127.0.0.1:36903
+1537111274542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NPOHF58vrkqC"
+  File "/usr/bin/lsb_release", line 64
+    print("No LSB modules are available.", file=sys.stderr)
+                                               ^
+SyntaxError: invalid syntax
+1537111277651	Marionette	INFO	Listening on port 42651
+1537111277659	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11769): dconf-WARNING **: 23:21:42.871: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+JavaScript error: https://textlink.simba.taobao.com/?name=tbhs&cna&nn=&count=13&pid=430266_1006&_ksTS=1537111303078_71&callback=jsonp72, line 2: ReferenceError: jsonp72 is not defined
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+[Parent 11691, Gecko_IOThread] WARNING: pipe error (75): 连接被对方重设: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537199162207	geckodriver	INFO	geckodriver 0.19.1
+1537199162261	geckodriver	INFO	Listening on 127.0.0.1:50053
+1537199163472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PuPfD6RITmzo"
+1537199167038	Marionette	INFO	Listening on port 33993
+1537199167093	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3880): dconf-WARNING **: 23:46:09.879: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[Child 3880, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537201033326	geckodriver	INFO	geckodriver 0.19.1
+1537201033331	geckodriver	INFO	Listening on 127.0.0.1:46145
+1537201034434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.M6dl2gwe62tI"
+1537201037889	Marionette	INFO	Listening on port 34353
+1537201037959	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4804): dconf-WARNING **: 00:17:24.877: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+JavaScript error: https://ald.taobao.com/recommend2.htm?appId=20140506002%2C20140506001%2C201602246%2C07085%2C03014%2C201608180&_ksTS=1537201045076_91&callback=jsonp92, line 2: ReferenceError: jsonp92 is not defined
+JavaScript error: https://drc.alicdn.com/7/1947787_0____?callback=jsonp1947787_0____, line 1: ReferenceError: jsonp1947787_0____ is not defined
+JavaScript error: https://textlink.simba.taobao.com/?name=tbhs&cna&nn=&count=13&pid=430266_1006&_ksTS=1537201045027_71&callback=jsonp72, line 2: ReferenceError: jsonp72 is not defined
+JavaScript error: https://acc.alicdn.com/tfscom/TB1o28iEeuSBuNjy1XcXXcYjFXa.js, line 2: TypeError: MBOX[u] is undefined
+[Child 4804, Chrome_ChildThread] WARNING: pipe error (21): 连接被对方重设: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537234498385	geckodriver	INFO	geckodriver 0.19.1
+1537234498430	geckodriver	INFO	Listening on 127.0.0.1:47599
+1537234499519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Tqab2DJ7Plvc"
+1537234503206	Marionette	INFO	Listening on port 33023
+1537234503240	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:2990): dconf-WARNING **: 09:35:07.816: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+JavaScript error: https://ald.taobao.com/recommend2.htm?appId=20140506002%2C20140506001%2C201602246%2C07085%2C03014%2C201608180&_ksTS=1537234508028_91&callback=jsonp92, line 2: ReferenceError: jsonp92 is not defined
+JavaScript error: https://textlink.simba.taobao.com/?name=tbhs&cna&nn=&count=13&pid=430266_1006&_ksTS=1537234507980_71&callback=jsonp72, line 2: ReferenceError: jsonp72 is not defined
+JavaScript error: https://drc.alicdn.com/7/1947787_0____?callback=jsonp1947787_0____, line 1: ReferenceError: jsonp1947787_0____ is not defined
+JavaScript error: https://headline.taobao.com/feed/homeFeed.do?_ksTS=1537234526396_150&callBack=jsonp151, line 2: ReferenceError: jsonp151 is not defined
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[Child 2990, Chrome_ChildThread] WARNING: pipe error (21): 连接被对方重设: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537235640375	geckodriver	INFO	geckodriver 0.19.1
+1537235640380	geckodriver	INFO	Listening on 127.0.0.1:60735
+1537235641480	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.t95JZRU1b3My"
+1537235644461	Marionette	INFO	Listening on port 35379
+1537235644497	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3724): dconf-WARNING **: 09:54:09.438: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+JavaScript error: https://ald.taobao.com/recommend2.htm?appId=20140506002%2C20140506001%2C201602246%2C07085%2C03014%2C201608180&_ksTS=1537235649640_91&callback=jsonp92, line 2: ReferenceError: jsonp92 is not defined
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1537238770788	geckodriver	INFO	geckodriver 0.19.1
+1537238770794	geckodriver	INFO	Listening on 127.0.0.1:34741
+1537238771915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qF713eepxof7"
+1537238775192	Marionette	INFO	Listening on port 35725
+1537238775232	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6037): dconf-WARNING **: 10:46:37.597: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+JavaScript error: https://ald.taobao.com/recommend2.htm?appId=20140506002%2C20140506001%2C201602246%2C07085%2C03014%2C201608180&_ksTS=1537238797798_91&callback=jsonp92, line 2: ReferenceError: jsonp92 is not defined
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[Child 6093, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00CD,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1537239482476	geckodriver	INFO	geckodriver 0.19.1
+1537239482481	geckodriver	INFO	Listening on 127.0.0.1:51033
+1537239483594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headlass" "-profile" "/tmp/rust_mozprofile.kS1vLOAolQUL"
+1537239487022	Marionette	INFO	Listening on port 39315
+1537239487109	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6960): dconf-WARNING **: 10:58:12.701: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00CD,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1537239541876	geckodriver	INFO	geckodriver 0.19.1
+1537239541882	geckodriver	INFO	Listening on 127.0.0.1:45329
+1537239542994	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.VuOuOmuszD1L"
+*** You are running in headless mode.
+1537239545895	Marionette	INFO	Listening on port 43817
+1537239545922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.5/index.js,kg/tb-nav/2.5.3/index-min.js,secdev/sufei_data/3.3.5/index.js, line 6: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.5/index.js,kg/tb-nav/2.5.3/index-min.js,secdev/sufei_data/3.3.5/index.js, line 6: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+
+(/usr/lib/firefox/firefox:7222): dconf-WARNING **: 10:59:29.924: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+JavaScript error: https://textlink.simba.taobao.com/?name=tbhs&cna&nn=&count=13&pid=430266_1006&_ksTS=1537239570849_71&callback=jsonp72, line 2: ReferenceError: jsonp72 is not defined
+JavaScript error: https://ald.taobao.com/recommend2.htm?appId=20140506002%2C20140506001%2C201602246%2C07085%2C03014%2C201608180&_ksTS=1537239570897_91&callback=jsonp92, line 2: ReferenceError: jsonp92 is not defined
+JavaScript error: https://headline.taobao.com/feed/homeFeed.do?_ksTS=1537239570924_129&callBack=jsonp130, line 2: ReferenceError: jsonp130 is not defined
+JavaScript error: https://drc.alicdn.com/7/1947680_0____?callback=jsonp1947680_0____, line 1: ReferenceError: jsonp1947680_0____ is not defined
+JavaScript error: https://drc.alicdn.com/7/1947683_0____?callback=jsonp1947683_0____, line 1: ReferenceError: jsonp1947683_0____ is not defined
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.6/index.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.6/index.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.5/index.js,kg/tb-nav/2.5.3/index-min.js,secdev/sufei_data/3.3.5/index.js, line 6: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.5/index.js,kg/tb-nav/2.5.3/index-min.js,secdev/sufei_data/3.3.5/index.js, line 6: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.6/index.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.6/index.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[Child 7222, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
